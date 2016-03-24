@@ -1,6 +1,6 @@
 'use strict';
 
-var phrases = require('./phrases');
+const phrases = require('./phrases');
 
 module.exports = str => {
   if (typeof str !== 'string') {
