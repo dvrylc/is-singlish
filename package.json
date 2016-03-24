@@ -1,0 +1,27 @@
+{
+  "name": "is-singlish",
+  "version": "1.0.0",
+  "description": "Check if a string contains Singlish phrases",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvrylc/is-singlish.git"
+  },
+  "keywords": [
+    "singlish",
+    "check",
+    "contains"
+  ],
+  "author": "Daryl Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvrylc/is-singlish/issues"
+  },
+  "homepage": "https://github.com/dvrylc/is-singlish#readme",
+  "devDependencies": {
+    "ava": "^0.13.0"
+  }
+}
