@@ -11,7 +11,7 @@ test('Returns fulfilled promise with true if Singlish is detected', t => {
   });
 });
 
-test('Returns fulfilled promise with false if Singlish is detected', t => {
+test('Returns fulfilled promise with false if Singlish is not detected', t => {
   return isSinglish('This should pass').then(result => {
     t.false(result);
   });
