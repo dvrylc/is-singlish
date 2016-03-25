@@ -11,7 +11,7 @@ $ npm install --save is-singlish
 ```js
 const isSinglish = require('is-singlish');
 
-isSinglish('can la').then(result => {
+isSinglish('I think can la').then(result => {
   console.log(result);
 });
 // true
