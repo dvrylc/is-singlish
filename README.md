@@ -22,5 +22,8 @@ isSinglish('I think this is possible').then(result => {
 // false
 ```
 
+## Related
+- [is-singlish-cli](https://github.com/dvrylc/is-singlish-cli) - CLI for this module
+
 ## License
 MIT © [Daryl Chan](https://darylchan.net)
